@@ -4,7 +4,7 @@
 repository:
   #name: NewRepo
   description: Dockerised Wordle clone
-  homepage: https://modem7.github.io/react-wordle/
+  homepage: https://raquelpanapalen.github.io/react-wordle/
   topics: docker, wordle, github_pages
 
   private: false
